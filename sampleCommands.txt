@@ -1,0 +1,29 @@
+CREATE VENV
+------------------------------------------
+-conda create -p venv python==3.12 
+# present working directory
+-conda create -n venv python==3.12
+# new virtual env is created whereever anaconda directory is present
+------------------------------------------
+ACTIVATE VENV
+-source /opt/anaconda3/bin/activate
+-conda init zsh
+-conda activate venv/
+------------------------------------------
+-pip install -r requirements.txt
+------------------------------------------
+TO CREATE PACKAGES:
+-In requirements.txt, add -e .
+-This triggers to create package of the project,
+ when we run pip install -r requirements.txt
+ For the above, we need to have setup.py created.
+
+-setup.py is old version
+-pyproject.toml is newer way.
+------------------------------------------
+Creation of project structure automatically:
+There is a python library : cookiecutter
+-pip intall cookiecutter
+-cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.github
+Above 2 line creates project structure
+------------------------------------------
