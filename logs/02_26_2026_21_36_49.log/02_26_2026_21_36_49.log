@@ -1,0 +1,3 @@
+[ 2026-02-26 21:36:49,483 ] 4 root - INFO - Exception module loaded successfully
+[ 2026-02-26 21:36:49,483 ] 7 root - INFO - Starting the main.py script
+[ 2026-02-26 21:36:49,483 ] 13 root - ERROR - An error occurred: division by zero

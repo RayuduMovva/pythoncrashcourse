@@ -1,0 +1,4 @@
+[ 2026-03-02 19:29:34,076 ] 14 root - INFO - Starting the main.py script
+[ 2026-03-02 19:29:34,076 ] 28 root - INFO - Data Ingestion started
+[ 2026-03-02 19:29:34,079 ] 52 root - ERROR - Error in Data Ingestion: No columns to parse from file
+[ 2026-03-02 19:29:34,079 ] 20 root - ERROR - An error occurred: Error occured in python script name [/Users/rayudu/Documents/pythoncrashcourse/src/component/data_ingestion.py] line number [30] error message [No columns to parse from file]

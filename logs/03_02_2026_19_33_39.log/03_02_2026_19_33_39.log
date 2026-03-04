@@ -1,0 +1,5 @@
+[ 2026-03-02 19:33:40,056 ] 14 root - INFO - Starting the main.py script
+[ 2026-03-02 19:33:40,056 ] 28 root - INFO - Data Ingestion started
+[ 2026-03-02 19:33:40,101 ] 31 root - INFO - Raw data read successfully
+[ 2026-03-02 19:33:40,694 ] 41 root - INFO - Train and Test data created successfully
+[ 2026-03-02 19:33:40,695 ] 17 root - INFO - Data Ingestion completed successfully. Train data path: artifacts/train_data.csv, Test data path: artifacts/test_data.csv

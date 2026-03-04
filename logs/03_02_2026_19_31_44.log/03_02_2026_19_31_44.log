@@ -1,0 +1,5 @@
+[ 2026-03-02 19:31:44,813 ] 14 root - INFO - Starting the main.py script
+[ 2026-03-02 19:31:44,813 ] 28 root - INFO - Data Ingestion started
+[ 2026-03-02 19:31:44,817 ] 31 root - INFO - Raw data read successfully
+[ 2026-03-02 19:31:44,817 ] 52 root - ERROR - Error in Data Ingestion: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+[ 2026-03-02 19:31:44,817 ] 20 root - ERROR - An error occurred: Error occured in python script name [/Users/rayudu/Documents/pythoncrashcourse/src/component/data_ingestion.py] line number [38] error message [With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.]
